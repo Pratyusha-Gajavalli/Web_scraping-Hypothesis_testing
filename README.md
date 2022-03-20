@@ -25,5 +25,6 @@ CONFIDENTIAL Page 2
 
 # Results
 Null hypothesis is rejected with 95% confidence level for 10 out of 14 product categories used in the analysis. This proves our alternate hypothesis that model based imagery is not impacting the sales much when there is fit related product description.
+https://github.com/Pratyusha-Gajavalli/Web_scraping-Hypothesis_testing/issues/1#issue-1174631550
 
 # Thank You!
